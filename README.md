@@ -12,7 +12,7 @@ Egret UI Editor是一款独立的UI编辑器，其主要功能是针对 `Egret` 
 另外：我们建议您在必要时候配合 VSCode 以及 egret coder 插件一起来进行Exml皮肤文件的编辑，以便可以更严谨的控制皮肤内的代码组织结构。
 目前仍为alpha版本，后续会做部分调整。
 
-## 构建
+## 构建  node 版本请使用10.x.x 当前10.16.0
 
 ```
 $ npm run setup-win or npm run setup-mac
